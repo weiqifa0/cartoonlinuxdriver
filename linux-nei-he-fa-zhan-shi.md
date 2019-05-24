@@ -50,7 +50,7 @@ BSD常被当作工作站级别的Unix系统，这得归功于BSD用户许可证�
 
 ## 导火索MINIX
 
-![MINIX&#x542F;&#x52A8;&#x754C;&#x9762;](.gitbook/assets/image.png)
+![MINIX&#x542F;&#x52A8;&#x754C;&#x9762;](.gitbook/assets/image%20%281%29.png)
 
 在Unix产生后，版权在AT&T手里，在Version 7 Unix发布之后，发布新的授权条款，将Unix源码私有化，在大学不得再使用Unix源码，荷兰阿姆斯特丹自由大学计算机科学系的塔能鲍姆教授为了教学,自己写了一个类Unix的小系统，命名为MINIX（意为mini-UNIX）。
 
